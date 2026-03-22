@@ -13,8 +13,6 @@ Proyecto de Minería de Datos para un supermercado, diseñado para descubrir pat
 ---
 
 ## 📊 Análisis implementados
-<details>
-<summary>Ver detalles</summary>
 
 - **Análisis de Canasta de Compra** (Reglas de Asociación)  
 - **Segmentación de Clientes** (KMeans)  
